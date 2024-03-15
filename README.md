@@ -1,5 +1,5 @@
 # API-Rick-y-Morty
-![] rick.png
+![] (rick.png)
 
 ### Resumen:
 Este framework proporciona un conjunto de herramientas para interactuar con la API de Rick and Morty, obtener datos de personajes y realizar análisis exploratorios sobre estos datos de manera eficiente y efectiva.
